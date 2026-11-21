@@ -1,0 +1,8 @@
+# RVA offsets for GameAssembly.dll (relative to module base).
+# Default values for this exact game build are below. Leave as-is unless the game updates.
+# Order: FirstPersonMovement.Update, FirstPersonMovement.FixedUpdate,
+#        CarController.FixedUpdate, CarController.Update
+674190
+673630
+7871C0
+7897F0
